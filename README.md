@@ -1,11 +1,18 @@
-In Class No. 3 of my SQL learning journey (under the guidance of my instructor Hafizullah Khokhar), I practiced the fundamentals of database creation and table handling.
+This repository contains my step-by-step SQL learning practices under the guidance of Instructor Hafizullah Khokhar.
+Each class folder has its own README with explanations and practice examples.
 
-✅ Topics Covered
+📂 Classes Covered
 
-Creating a Database
+Class 3 – Create Database, Table & Show Values
 
-Creating a Table inside the database
+Class 4 – Applying Conditions (WHERE, AND, OR, NOT)
 
-Inserting Values into the table
+🎯 Goal
 
-Displaying / Retrieving Values from the table
+To build a strong foundation in SQL by practicing concepts class by class with hands-on coding.
+
+🛠️ Tools Used
+
+SQL (Structured Query Language)
+
+Microsoft SQL Server (any SQL environment)
