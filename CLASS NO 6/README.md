@@ -107,18 +107,6 @@ SET Name = 'Areesha Sheikh'
 WHERE RollNumber = 104 AND Name = 'Ayesha Sheikh';
 ```
 
----
-
-## 📂 Repo Structure  
-
-```
-Class6_SQL/
-│── README.md       # Summary of Class 6
-│── class6.sql      # Full SQL practice file
-```
-
----
-
 ## 🚀 Key Learning  
 
 Class 6 was a **revision class** to combine all earlier concepts.  
