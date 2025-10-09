@@ -13,7 +13,7 @@ Class 4 – Applying Conditions (WHERE, AND, OR, NOT)
 
 Class 5 – Logical Operators & Multiple Conditions
 
-Class 6 – ORDER BY & GROUP BY Clauses (Coming Soon)
+Class 6 – ORDER BY & GROUP BY Clauses
 
 Class 7 – Functions & Expressions (DATEPART, GETDATE, ROUND, LTRIM, RTRIM, UPPER, LOWER, DISTINCT, LEN, ALTER TABLE, DROP COLUMN)
 
