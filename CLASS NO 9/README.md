@@ -33,11 +33,3 @@ Example: `Students` and `Courses`.
 ## 🧰 Tools Used
 - Microsoft SQL Server  
 - SQL Server Management Studio (SSMS)
-
-## 📝 Author
-**Mughal Hamza**  
-📅 Class 9 – SQL Learning Journey
-
----
-
-⭐ *If you find this helpful, give it a star on GitHub!* 🌟
